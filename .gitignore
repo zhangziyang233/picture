@@ -1,0 +1,21 @@
+# 个人 API Key：绝不可入库
+src/api_config.json
+api_config.json
+
+# 生成产物与任务记录（含提示词与参考图路径）
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
